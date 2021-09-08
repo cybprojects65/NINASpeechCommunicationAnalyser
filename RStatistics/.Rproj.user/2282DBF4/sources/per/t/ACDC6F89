@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560806599582.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ACDC6F89",
+    "lastKnownWriteTime" : 13229800654241903,
+    "last_content_update" : 1560806599582,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4C1B4E47",
+        "caption" : "nrgtable",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=nrgtable&cache_key=4C1B4E47",
+        "displayedObservations" : "10",
+        "environment" : "",
+        "object" : "nrgtable",
+        "preview" : "0",
+        "totalObservations" : "10",
+        "variables" : "30"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

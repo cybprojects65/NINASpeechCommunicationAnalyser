@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560806437536.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2953279397",
+    "id" : "8F21712",
+    "lastKnownWriteTime" : 1562247950,
+    "last_content_update" : 1562247950831,
+    "path" : "D:/EclipseWorkspaces/workspacePrivate/NINASpeechCommunicationAnalyser/RStatistics/energypitchstatistics.R",
+    "project_path" : "energypitchstatistics.R",
+    "properties" : {
+        "cursorPosition" : "22,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

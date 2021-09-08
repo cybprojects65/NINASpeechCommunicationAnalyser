@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560807460551.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4BEFBBF4",
+    "lastKnownWriteTime" : 7521967287104962560,
+    "last_content_update" : 1560807460551,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B88DC77D",
+        "caption" : "questions",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=questions&cache_key=B88DC77D",
+        "displayedObservations" : 22,
+        "environment" : "",
+        "object" : "questions",
+        "preview" : 0,
+        "totalObservations" : 22,
+        "variables" : 1
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
